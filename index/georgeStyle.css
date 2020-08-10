@@ -1,0 +1,23 @@
+body {
+
+  background-image: url("Sketch.png");
+
+ height:100%;
+ width: 100%;
+ /* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+img {
+	max-width: 100%;
+	}
+.bg {
+
+ }
